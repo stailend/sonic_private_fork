@@ -1,6 +1,9 @@
 # MacOS
 .DS_Store
 
+#private_key
+privatekey.txt
+
 # IDE
 .vscode
 .idea/
